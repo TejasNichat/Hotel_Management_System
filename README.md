@@ -4,6 +4,6 @@ How To Run :
 first you need install python.
 download project.
 extract project.
-double click in login.py.
-Project is run
+double click on login.py.
+
 Thanks ....
